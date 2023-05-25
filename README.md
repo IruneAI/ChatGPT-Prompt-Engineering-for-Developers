@@ -30,7 +30,7 @@ chatgpt/
 
 </details>
 
-I evaluate the model also in a quite unique language: Euskera! <3 Whole experience both in UI as well as API chat seems not to be performing such accurate on my mother language, but not that bad ;).
+I evaluate the model also in a quite unique language: [Euskera!](https://en.wikipedia.org/wiki/Basque_language) <3 Whole experience both in UI as well as API chat seems not to be performing such accurate on my mother language, but not that bad ;).
 
 If you are interested on taking the course, check out https://www.deeplearning.ai/. The course is open! :) 
 
