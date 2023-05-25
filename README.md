@@ -29,3 +29,5 @@ chatgpt/
 </pre>
 
 </details>
+
+If you are interested on taking the course, check out https://www.deeplearning.ai/. The course is open! :) 
