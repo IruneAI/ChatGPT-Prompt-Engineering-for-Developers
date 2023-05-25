@@ -33,3 +33,8 @@ chatgpt/
 I evaluate the model also in a quite unique language: Euskera! Whole experience both in UI as well as API chat seems not to be performing such accurate on my mother language, but not that bad ;).
 
 If you are interested on taking the course, check out https://www.deeplearning.ai/. The course is open! :) 
+
+
+## Some interesting related articles
+
+https://www.deeplearning.ai/the-batch/issue-197/ (quite interesting although a little bit controversial on 'replacing' test datasets)
