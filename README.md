@@ -8,10 +8,12 @@ ChatGPT Prompt Engineering for Developers DeepLearning.AI materials. I made it j
 - Give the model time to 'think'
 
 **Task presented**
+- Iterative prompting
 - Summarizing
 - Inferring
 - Transforming
 - Expanding
+- Chatbot app
 
 <details>
 <summary>Project Structure</summary>
