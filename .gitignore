@@ -26,4 +26,4 @@ Thumbs.db
 
 # Ignore environment sensitive data
 .env
-
+pyvenv.cfg
