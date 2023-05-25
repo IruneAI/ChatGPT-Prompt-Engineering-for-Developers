@@ -7,7 +7,7 @@ ChatGPT Prompt Engineering for Developers DeepLearning.AI materials. I made it j
 - Write clear and specific instructions
 - Give the model time to 'think'
 
-**Task presented**
+**Tasks presented**
 - Iterative prompting
 - Summarizing
 - Inferring
