@@ -41,7 +41,8 @@ If you are interested on taking the course, check out https://www.deeplearning.a
 
 https://www.deeplearning.ai/the-batch/issue-197/ (quite interesting although a little bit controversial on 'replacing' test datasets)
 
-What is Prompt Engineering? 
+**What is Prompt Engineering?**
+
 https://www.techtarget.com/searchenterpriseai/definition/prompt-engineering
 
 https://www.promptengineering.org/what-is-prompt-engineering/
@@ -49,7 +50,9 @@ https://www.promptengineering.org/what-is-prompt-engineering/
 https://www.promptingguide.ai/
 
 
-Are new roles coming ? https://www.businessinsider.com/ai-prompt-engineer-jobs-pay-salary-requirements-no-tech-background-2023-3?r=US&IR=T
+**Are new roles coming?**
+
+https://www.businessinsider.com/ai-prompt-engineer-jobs-pay-salary-requirements-no-tech-background-2023-3?r=US&IR=T
 
 
 
