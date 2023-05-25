@@ -7,7 +7,6 @@ ChatGPT Prompt Engineering for Developers DeepLearning.AI materials. I made it j
 
 <pre>
 <code>
-.
 chatgpt/
 ├── notebooks/
 │   ├── guidelines.ipynb
